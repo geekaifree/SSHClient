@@ -1,0 +1,2 @@
+#!/bin/sh
+echo 'SSHClient v1.0.0'
